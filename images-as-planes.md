@@ -15,7 +15,7 @@
 
 The image will cast shadows as default. This is not good (at least not if you're using it as a background image).
 
-- Go into Material properties -> Settings -> Shadow mode = none
+- Object properties -> Ray visibility -> Turn off shadows
 - Boom, done.
 
 ## Rotating & scaling
