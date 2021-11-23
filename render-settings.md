@@ -3,8 +3,14 @@ These are some typical settings for renders using Cycles on Concierge render clo
 
 ## Samples
 Render properties -> Sampling.
+
+### Light scenes
 For lighter scenes (strong sun lights, hdri's etc.), use somewhere between 200-400. Could probably boost a bit if using cloud rendering.
+
+### Dark scenes
 Darker scenes with volumetrics needs a lot more. Up to 2k-3k samples. Still a bit of noise on really dark renders, but looks kinda nice.
+
+### Volumetrics
 Volumetrics need higher sample count!
 
 ## Adaptive sampling
