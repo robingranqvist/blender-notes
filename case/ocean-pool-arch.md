@@ -19,6 +19,11 @@ in the corner, courtesy of Blenderkit (free 3D assets).
 - Remove them by CTRL + X -> Faces
 - Add a solidify modifier to the cube and thicken to taste
 
+### The room - material
+
+- The material is a simple colored "default" material with high roughness
+- There's a barely noticable voronoi texture sent through a bump node to the material. Scale of 0.001 and strenght of 0.01.
+
 ## The arch
 
 Modelling is hard, and even such a simple shape as this one was hard for me to create. Luckily there's all kinds of tutorials out there.
@@ -37,6 +42,8 @@ I used [this technique](https://www.reddit.com/r/blender/comments/g37t1n/blender
 
 This was very uncesssary. //TODO: Learn a new way to create arches.
 
+The room has a boolean modifier applied, which cuts out the arch shape out of the wall. The arch is then hidden in the render (and viewport).
+
 ## The pool
 
 ### The outer ring 
@@ -46,6 +53,7 @@ This was very uncesssary. //TODO: Learn a new way to create arches.
 - (What did I do here? Can't remember)
 - Add a solidify modifier and thicken to taste
 - Add a bevel modifier and bevel to taste
+- The material is a slightly more metallic version of the same material as the room.
 
 ### The water
 
@@ -63,3 +71,33 @@ For the water material, I used a material from the free addon Blenderkit. Couldn
 ## The sky
 
 The sky is a free image from Unsplash, imported as a plane with shadows removed. Looks great. It's then placed behind the "ocean" and scaled to fill the frame.
+
+## The plant
+
+As mentioned above, the plant is a free asset from the Blenderkit addon.
+
+## Lighting
+
+### Outside light
+
+The whole scene is being lit by an evening HDRI from Polyhaven. It's rotated to light up the room straight from the outside in through the arch. It's 
+set to a strenght of 0.5, and is complemented by a white sun light, also at a strenght of 0.5. Both are rotated to light from (almost) the same angle.
+
+### Inside light
+
+There are three main lights inside the room; two point lights and one area light.
+
+- Point lights: 10 w, radius of 1 meter and a slight light blue color.
+- Area light: 50 w, radius of 3 x 1.5 and a strong pink color.
+
+#### Point lights
+
+The point lights are placed above the arch, giving an almost reverse vignette kinda look at the top left and right of the scene. 
+These are used to give the top of the room a bit of light. 
+
+#### Area light
+
+The area light is probably my biggest takeaway from this render. It gives the room a much brighter feeling, but the color compliments the whole room-color so well. 
+It was actually colored by mistake, but immediately gave the render a nicer vibe. Definitely gonna keep use colored lights for scenes like this.
+
+That's it.
