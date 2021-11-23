@@ -22,6 +22,7 @@ This creates some cool noisy volume.
 - Add an "add shader" node
 - Add a volume scatter node, low density
 - Add a volume absorption node, same low density
+
 // TODO: how does this look in a bigger scene?
 
 ## Light pattern / light throw
