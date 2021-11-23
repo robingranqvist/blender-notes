@@ -1,2 +1,2 @@
 # Blender notes
-Personal notes for remembering important things while learning blender.
+Personal notes for remembering things while learning blender.
