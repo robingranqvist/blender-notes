@@ -19,5 +19,8 @@ World properties -> Strenght. 1 seems to work fine most of the time.
 
 Z-axis rotates the HDRI the correct way. Nice.
 
+## Hide HDRI bg-image in render
+- World properties -> Ray visibility -> Camera
+
 ## Download HDRI's
 Polyhaven.com seems to be where people get them for free.
