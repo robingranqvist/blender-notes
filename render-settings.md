@@ -34,4 +34,4 @@ Subdivision modifier -> Adaptive subdivision (Experimental feature).
 ## Local renders
 Use GPU with or without optix denoising.
 
-// Todo: Learn about settings for glass / metallic materials.
+// Todo: Learn about settings for glass / metallic materials. 
