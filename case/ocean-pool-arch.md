@@ -3,6 +3,7 @@
 This is a fairly minimalistic render, featuring a pool in a room, looking out into the oceanic distance through an arch. There's also a little plant
 in the corner, courtesy of Blenderkit (free 3D assets).
 
+- Engine: Cycles
 - Resolution: 1080 x 1350
 - Samples: 700 for final render
 - Max light bounces: 3
