@@ -101,4 +101,19 @@ These are used to give the top of the room a bit of light.
 The area light is probably my biggest takeaway from this render. It gives the room a much brighter feeling, but the color compliments the whole room-color so well. 
 It was actually colored by mistake, but immediately gave the render a nicer vibe. Definitely gonna keep use colored lights for scenes like this.
 
-That's it.
+## Improvements
+
+- Could probably be a bit more light inside the room
+- Figure out how to add more subdivisions to the arch. It's a bit clanky as of now.
+- Water could be more lightblueish, aka. pool-waterish
+- Show more of the thicknes of the arch. How? Hmm, maybe a slighly different angle of the shot?
+- Figure out how to create, place & scatter some winding plants around the arch opening
+- Softer light. How? Maybe use the integrated sky texture instead of HDRI & sun light
+- The outside is more of a day-feeling instead of an evening-feeling, even if the latter was intended at the start.
+
+## Good things :)
+
+- I like the chill vibe
+- Figured out how to use weird colored lights together with the color of the room
+- I kinda like the lighting overall
+- Finally figured out arches
