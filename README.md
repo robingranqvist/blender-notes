@@ -19,7 +19,6 @@ Personal notes for remembering things while learning blender.
 ## Modelling
 
 - [Procedual clouds](https://github.com/robingranqvist/blender-notes/blob/main/cloud.md)
-- [Procedual clouds](https://github.com/robingranqvist/blender-notes/blob/main/cloud.md)
 
 ## Materials
 
