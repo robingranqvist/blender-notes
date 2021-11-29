@@ -20,7 +20,7 @@ Personal notes for remembering things while learning blender.
 
 - [Procedual clouds](https://github.com/robingranqvist/blender-notes/blob/main/cloud.md)
 
-## Materials
+## Material
 
 - [Sand dunes](https://github.com/robingranqvist/blender-notes/blob/main/sand-dunes.md)
 - [Ground w/ noise](https://github.com/robingranqvist/blender-notes/blob/main/ground-noise.md)
