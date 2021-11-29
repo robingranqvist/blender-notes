@@ -8,7 +8,7 @@ Personal notes for remembering things while learning blender.
 - [Particle systems](https://github.com/robingranqvist/blender-notes/blob/main/particle-systems.md)
 - [Vertex groups](https://github.com/robingranqvist/blender-notes/blob/main/vertex-groups.md)
 
-## Lighting
+## Lightning
 - [Procedual lights on string](https://github.com/robingranqvist/blender-notes/blob/main/procedural-lights-on-string)
 - [Volumetrics](https://github.com/robingranqvist/blender-notes/blob/main/volumetrics.md)
 
